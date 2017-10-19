@@ -1,0 +1,345 @@
+
+
+
+header{
+    background-color:#cc3333;
+   
+       
+} 
+
+
+.img2{
+	
+	float: left;
+	font: normal 28px Cookie, Arial, Helvetica, sans-serif;
+	line-height: 40px;
+	margin: 0;
+	box-shadow: 1px 5px 5px #555;
+	
+}
+
+a{
+    color: white;
+    text-decoration-line: none;
+    
+}
+
+a:hover{
+    
+        text-decoration-line: none;
+    color: white;
+
+}
+
+
+
+
+nav{
+    
+    padding: 18px;
+	font:16px Arial, Helvetica, sans-serif;
+    
+    
+}
+
+
+nav ul{
+     
+    
+    text-align: center;
+  
+    
+}
+
+
+
+nav ul li {
+    
+    display: inline;
+    padding: 10px;
+    font-size:25px;
+    margin-right: 10px;
+    
+    
+    
+    
+    
+}
+
+
+
+nav ul li a{
+    
+    text-decoration: none;
+    color: white;
+    padding:15px;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+ nav ul li a:hover{
+    color:gray;
+     text-decoration: none;
+
+     
+}
+
+
+.k{
+color: black;
+	
+
+	text-align: center;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	letter-spacing: 4px;
+	 font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+	
+	
+    
+    
+
+
+
+    
+    
+
+.frame{
+    
+    
+    
+    background-color: #cc3333;
+	padding: 15px;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	margin: 0 auto;
+	
+}
+
+
+.y{
+    
+    font-size: 30px;
+    text-align: center;
+	padding: 0px;
+		font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	
+    
+
+}.btn-danger{
+	
+	
+	background: #CC3333;
+	font-size: 16px;
+	margin: 0 auto;
+	
+}
+.btn-dark{
+	
+	
+	background: #353030;
+	font-size: 16px;
+	margin: 0 auto;
+	
+}
+
+
+
+
+
+
+.font {
+  font-size: 35px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+.font2{
+	
+	
+	 font-size: 15px;
+  margin-top: 0;
+  margin-bottom: 15px;
+	padding: 10px;
+  font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+hr{
+	
+	
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+
+	
+}
+
+
+.frame1{
+	
+	 
+    background-color:#333333 ;
+	padding: 15px;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	margin: 0 auto;
+	
+	
+	
+}
+
+
+#myFooter {
+    background-color: #3c3d41;
+    color: white;
+    padding-top: 30px;
+}
+
+#myFooter .footer-copyright {
+    background-color: #333333;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    text-align: center;
+}
+
+#myFooter .row {
+    margin-bottom: 60px;
+}
+
+#myFooter .navbar-brand {
+    margin-top: 45px;
+    height: 65px;
+}
+
+#myFooter .footer-copyright p {
+    margin: 10px;
+    color: #ccc;
+}
+
+#myFooter ul {
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+}
+
+#myFooter h5 {
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#myFooter h2 a{
+    font-size: 50px;
+    text-align: center;
+    color: #fff;
+}
+
+#myFooter a {
+    color: #d2d1d1;
+    text-decoration: none;
+}
+
+#myFooter a:hover,
+#myFooter a:focus {
+    text-decoration: none;
+    color: white;
+}
+
+#myFooter .btn {
+    color: white;
+    background-color: #d84b6b;
+    border-radius: 20px;
+    border: none;
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    line-height: 25px;
+	float: right;
+}
+
+@media screen and (max-width: 767px) {
+    #myFooter {
+        text-align: center;
+    }
+}
+
+
+/* CSS used for positioning the footers at the bottom of the page. */
+/* You can remove this. */
+
+
+#myFooter{
+   flex: 0 0 auto;
+   -webkit-flex: 0 0 auto;
+}
+
+
+
+
+
+ .social-networks {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 16px;
+}
+
+.social-networks a {
+    font-size: 32px;
+    padding: 10px;
+    transition: 0.2s;
+float: right;
+}
+	
+
+
+.social-networks a:hover {
+    text-decoration: none;
+}
+.facebook:hover {
+    color: #0077e2;
+}
+
+ .google:hover {
+    color: #ef1a1a;
+}
+ .twitter:hover {
+    color: #00aced;
+}
+.facebook {
+    color: #0077e2;
+}
+
+ .google {
+    color: #ef1a1a;
+}
+
+.twitter {
+    color: #00aced;
+}
+
+
+
+#g{
+	
+	padding-left: 170px;
+	
+}
+
+.om{
+	
+	text-align: center;
+	padding-right: 160px;
+}
