@@ -1,6 +1,6 @@
 
 
-
+/*
 header{
     background-color:#cc3333;
    
@@ -84,7 +84,7 @@ nav ul li a{
 
      
 }
-
+*/
 
 .k{
 color: black;
@@ -287,9 +287,6 @@ hr{
 }
 
 
-
-
-
  .social-networks {
     text-align: center;
     padding-top: 30px;
@@ -343,3 +340,4 @@ float: right;
 	text-align: center;
 	padding-right: 160px;
 }
+
